@@ -1,0 +1,86 @@
+.er{
+    height: 400px;
+    width: 50%;
+    background-color: rgb(245, 197, 203);
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border-radius: 20px;
+}
+/* #marc{
+    margin-top: 120px;
+} */
+
+.login-form{
+    margin-top: 50px;
+}
+h1{
+    font-style: italic;
+    font-size: 70px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: rgb(241, 58, 58);
+    text-align: center;
+}
+
+.an{
+    cursor: pointer;
+    
+}
+
+.form-input-material{
+    width: 100%;
+    height: 56px;
+    padding: 0 16px;
+    border-radius: 8px;
+    
+    gap: 16px;
+}
+.form-input-material input{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: rgb(245, 238, 226);
+    
+}
+form a {
+    text-align: center;
+    padding-left: 18px;
+    font-size: 20px;
+}
+#buts{
+   display: flex;
+   gap: 16px;
+}
+#su{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    margin-left: 15px;
+    /* height: 30px;
+    width: 100px; */
+}
+
+#si{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    /* height: 30px;
+    width: 100px; */
+    margin-top: 10px;
+}
+#su button{
+    height: 30px;
+    width: 100px;
+    font-style: italic;
+    font-size: 15px;
+    font-weight:700
+    
+}
+#si button{
+    height: 30px;
+    width: 100px;
+    font-style: italic;
+    font-size: 15px;
+    font-weight:700
+}
